@@ -7,6 +7,6 @@ int main()
 cout<<"Hello World...";
 cout<<"Hiee...";
 cout<<"Hey";
-cout<<"Updated in branch1";
+cout<<"Updated in branch2";
 return 0;
 }
